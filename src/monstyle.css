@@ -1,0 +1,46 @@
+.monNom {
+    color: #130f0f;
+    text-align: center;
+}
+
+.monNom span {
+    color: #59d9fc;
+}
+
+.defaultcss {
+    font-family: 'Montserrat';
+    margin-top: 40px;
+}
+
+.monAvatar {
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+}
+
+.monAdresse {
+    text-align: center;
+}
+
+.texteAdresse {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 30px;
+}
+
+.lienAdresse {
+    font-size: 22px;
+    color: #59d9fc;
+    text-align: center;
+}
+
+.lienAdresse:hover {
+    color: #3cbbdf;
+}
+
+.defaultAppCss {
+    border: 1px solid #F6F6F6;
+    margin: 40px 100px;
+    padding-bottom: 80px;
+    border-radius: 10px;
+}
